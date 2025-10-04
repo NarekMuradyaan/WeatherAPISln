@@ -1,0 +1,15 @@
+# Ignore Visual Studio temporary files
+.vs/
+*.user
+*.suo
+
+# Build output
+bin/
+obj/
+
+# IDE settings
+*.dbmdl
+*.opendb
+
+# Others
+*.log
